@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/fex09/Triptico/issues"
   },
-  "homepage": "https://github.com/fex09/Triptico#readme"
+  "homepage": "https://github.com/fex09/Triptico#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.0.0-rc.1"
+  }
 }
