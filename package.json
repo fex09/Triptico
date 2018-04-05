@@ -1,0 +1,26 @@
+{
+  "name": "triptico",
+  "version": "1.0.0",
+  "description": "Sitio Web de Triptico Soluciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fex09/Triptico.git"
+  },
+  "keywords": [
+    "Triptico",
+    "diseño",
+    "web",
+    "marketing",
+    "digital"
+  ],
+  "author": "Fénix Solís - Triptico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fex09/Triptico/issues"
+  },
+  "homepage": "https://github.com/fex09/Triptico#readme"
+}
